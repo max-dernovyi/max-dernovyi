@@ -14,5 +14,6 @@ Free, uncapped Magento 2 modules on Packagist as [`dmlab/*`](https://packagist.o
 | [customer-sso](https://github.com/dmlab-work/module-customer-sso) | Storefront SSO with group mapping |
 | [customer-passkey](https://github.com/dmlab-work/module-customer-passkey) | Passwordless storefront login (WebAuthn) |
 | [typesense-search](https://github.com/dmlab-work/module-typesense-search) | Typesense as a drop-in Magento search engine |
+| [catalog-enrich](https://github.com/dmlab-work/module-catalog-enrich) | AI fills empty filter attributes from product descriptions |
 
 [dmlab.work](https://dmlab.work) · [hello@dmlab.work](mailto:hello@dmlab.work) · [LinkedIn](https://www.linkedin.com/in/max-dernovyi)
